@@ -3,7 +3,8 @@
 ![](https://github.com/KuroakeVizago/KuroakeVizago/blob/main/Zhongli.gif)
 
 ----------------
-
+- 🔭 I’m currently working on remaking a Stardew Valley like game
+- 🌱 I’m currently learning Machine Learning
 ----------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuroakeVizago&show_icons=true&theme=radical)

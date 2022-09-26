@@ -4,7 +4,7 @@
 
 ----------------
 - 🔭 I’m currently working on remaking a Stardew Valley like game
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning, Android, and Web Development
 ----------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuroakeVizago&show_icons=true&theme=radical)
@@ -15,7 +15,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning, 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

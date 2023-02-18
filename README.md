@@ -3,7 +3,6 @@
 ![](https://github.com/KuroakeVizago/KuroakeVizago/blob/main/Zhongli.gif)
 
 ----------------
-- 🔭 I’m currently working on remaking a Stardew Valley like game
 - 🌱 I’m currently learning Machine Learning, Android, and Web Development
 ----------------
 

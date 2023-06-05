@@ -1,6 +1,6 @@
 ### Hello There ^_^ Vizago is here
 
-![](https://github.com/KuroakeVizago/KuroakeVizago/blob/main/Zhongli.gif)
+![Cool_Gif_^-^](https://github.com/KuroakeVizago/KuroakeVizago/blob/main/Zhongli.gif)
 
 ----------------
 - 🌱 I’m currently learning Machine Learning, Android, and Web Development

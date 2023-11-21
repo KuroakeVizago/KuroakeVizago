@@ -1,9 +1,19 @@
-### Hello There ^_^ Vizago is here
+### Hello There ^_^ Zaebi is here a.k.a Kuroake Vizago
 
 ![Cool_Gif_^-^](https://github.com/KuroakeVizago/KuroakeVizago/blob/main/Zhongli.gif)
 
 ----------------
-- 🌱 I’m currently learning Machine Learning, Android, and Web Development
+- 🔭 I’m currently working on my own Indie Team that moves in the world of Digital Creativity 💻
+- 🌱 I’m currently learning:
+  - Machine Learning 🤖📖
+  - 2D & 3D Art 🎨
+  - Composing 🎹
+  - And ofc Game & Game Engine Development 🎮
+- 💬 Ask me about anything related to IT, or other stuff that may interest you for open discussion with me 😉
+- 📫 How to reach me 😣:
+	- Instagram: @kuroake_vizago
+	- Twitter: @KuroakeVizago
+  - LinkedIn: Zaebi-Agustia-Hidayatullah
 ----------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuroakeVizago&show_icons=true&theme=radical)
@@ -13,7 +23,7 @@
 **KuroakeVizago/KuroakeVizago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning Machine Learning, 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

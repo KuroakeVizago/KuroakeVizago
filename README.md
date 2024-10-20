@@ -3,7 +3,7 @@
 ![Cool_Gif_^-^](https://github.com/KuroakeVizago/KuroakeVizago/blob/main/Zhongli.gif)
 
 ----------------
-- 🔭 I’m currently working on my own Indie Team that moves in the world of Digital Creativity 💻
+<!-- - 🔭 I’m currently working on my own Indie Team that moves in the world of Digital Creativity 💻 -->
 - 🌱 I’m currently learning:
   - Machine Learning 🤖📖
   - 2D & 3D Art 🎨
